@@ -1,6 +1,5 @@
 # 🌸 What's good! Welcome to my GitHub :) 🌸 
 
----
 
 ## Education
 I'm completing my degree at Michigan State University and will graduate in 2025 with a Bachelor of Science in Computer Science. 
